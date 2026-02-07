@@ -24,8 +24,8 @@ body {
 }
 
 .card {
-    background-color: #f2f1ed;
-    border-radius: 12px;
+    background-color: #d9dbeb;
+    border-radius: 20px;
     padding: 40px 32px;
     width: 320px;
     flex-shrink: 0;
@@ -76,7 +76,7 @@ body {
 
 .download-button {
     width: fit-content;
-    background-color: #e6e5e0;
+    background-color: #c4c8d6;
     border: none;
     border-radius: 999px;
     padding: 14px 24px;
